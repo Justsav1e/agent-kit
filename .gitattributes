@@ -1,0 +1,4 @@
+# .bat and .ps1 keep CRLF and exact bytes; .sh stays LF - otherwise cmd and sh break
+*.bat -text
+*.ps1 -text
+*.sh text eol=lf

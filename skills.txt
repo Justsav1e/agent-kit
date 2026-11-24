@@ -1,0 +1,38 @@
+# Сторонние скиллы: репозиторий на GitHub и какие скиллы из него ставить.
+# Ставятся из оригинальных репозиториев авторов через `npx skills add`.
+# Строку можно закомментировать (#) или дописать свою: owner/repo skill1 skill2 ...
+
+# Процесс разработки: план, отладка, ревью, TDD (Jesse Vincent)
+obra/superpowers brainstorming dispatching-parallel-agents executing-plans finishing-a-development-branch receiving-code-review requesting-code-review subagent-driven-development systematic-debugging test-driven-development using-git-worktrees using-superpowers verification-before-completion writing-plans writing-skills
+# Архитектура, баги, допрос идеи (Matt Pocock)
+mattpocock/skills diagnosing-bugs grilling handoff improve-codebase-architecture tdd
+# Простота вместо переусложнения
+DietrichGebert/ponytail ponytail ponytail-audit ponytail-debt ponytail-gain ponytail-help ponytail-review
+# Промпты для других ИИ
+nidhinjs/prompt-master prompt-master
+# Поиск новых скиллов
+vercel-labs/skills find-skills
+
+# Дизайн и фронтенд
+anthropics/skills frontend-design skill-creator
+pbakaus/impeccable impeccable
+nextlevelbuilder/ui-ux-pro-max-skill ui-ux-pro-max
+emilkowalski/skills emil-design-eng
+elayadesign/redesign-skill redesign-existing-projects
+smixs/creative-director-skill creative-director
+lyndonkl/claude brainstorm-diverge-converge
+greensock/gsap-skills gsap-core gsap-performance gsap-react gsap-scrolltrigger
+openai/skills playwright
+
+# Тексты по-русски: типографика, инфостиль
+talkstream/ru-text ru-text ru-check ru-score
+
+# Маркетинг и продажи (Corey Haines)
+coreyhaines31/marketingskills ab-testing analytics competitor-profiling copy-editing copywriting cro customer-research emails free-tools launch lead-magnets marketing-council marketing-plan marketing-psychology offers popups pricing product-marketing sales-enablement signup site-architecture
+# SEO
+AgriciDaniel/claude-seo seo seo-page seo-plan seo-schema seo-sitemap seo-technical
+
+# Git, безопасность, DevOps
+netresearch/git-workflow-skill git-workflow
+semgrep/skills semgrep
+arjunprabhulal/devops-skills alerting artifact-management backup-and-restore build-optimization ci-pipelines container-registry containerization continuous-delivery database-operations deployment-strategies image-optimization image-scanning log-management metrics-and-monitoring network-security observability pipeline-security release-management secrets-management security-scanning supply-chain-security vulnerability-management
